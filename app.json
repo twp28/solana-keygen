@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "sol-wallet",
+    "slug": "sol-wallet",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
